@@ -1,2 +1,3 @@
-# ISTAR
-Intelligent Software Testing and AI-Driven Automation with Rigor
+# ISTAR - Intelligent Software Testing and AI-automation with Rigor
+
+Intelligent Software Testing and AI-automation with Rigor
